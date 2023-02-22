@@ -1,3 +1,4 @@
+#Esta clase define un termino
 
 class termino:
 	val = 0.0
